@@ -1,0 +1,12 @@
+x_value = input("whats the x-value")
+y_value = input("whats the y-value")
+x_value = int(x_value)
+y_value = int(y_value)
+
+print(x_value + y_value)
+print(x_value - y_value)
+print(x_value * y_value)
+print(x_value / y_value)
+print(x_value % y_value)
+print(x_value ** y_value)
+print(x_value // y_value)
