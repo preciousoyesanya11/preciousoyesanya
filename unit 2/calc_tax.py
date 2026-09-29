@@ -20,4 +20,3 @@ def calculate_tax(item, price, rate):
     return (price + tax)
 
 print(item +" costs " + str(price) + " dollars before tax and " + str(total) + " after tax.")
-
